@@ -1,6 +1,6 @@
-# PawFall Game 🐕🍎
+# Puppy Fruit
 
-**PawFall Game** es un videojuego 2D desarrollado en Java con LibGDX donde controlas a un perro granjero que debe recolectar frutas que caen desde la parte superior de la pantalla.
+**Puppy Fruit** es un videojuego 2D desarrollado en Java con LibGDX donde controlas a un perro granjero que debe recolectar frutas que caen desde la parte superior de la pantalla.
 El objetivo es sobrevivir el mayor tiempo posible sin perder las 3 vidas disponibles, acumulando puntos para superar el récord histórico guardado en el dispositivo.
 
 ---
@@ -8,7 +8,6 @@ El objetivo es sobrevivir el mayor tiempo posible sin perder las 3 vidas disponi
 ## Requisitos
 
 - JDK 8 u 11 (Oracle JDK)
-- IDE: NetBeans 21 (o inferior) o Eclipse
 - LibGDX (incluido en el proyecto)
 
 ---
