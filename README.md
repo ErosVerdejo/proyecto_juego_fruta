@@ -1,7 +1,5 @@
 # Puppy Fruit 🐕🍎
 
-<img width="1918" height="1107" alt="image" src="https://github.com/user-attachments/assets/c962d5b0-f02b-43ba-933f-be0739b6f402" />
-
 **Puppy Fruit** es un videojuego 2D desarrollado en Java con LibGDX donde controlas a un perro granjero que debe recolectar frutas que caen desde la parte superior de la pantalla.
 El objetivo es sobrevivir el mayor tiempo posible sin perder las 3 vidas disponibles, acumulando puntos para superar el récord histórico guardado en el dispositivo.
 
@@ -49,7 +47,6 @@ Una vez abierto el proyecto, Eclipse descarga las dependencias automáticamente 
 | ⭐ Fruta dorada | Especial | +50 puntos y recupera 1 vida |
 | 🔴 Fruta podrida | Mala | -1 vida y -10 puntos |
 
-<img width="1732" height="1028" alt="image" src="https://github.com/user-attachments/assets/21d3b1d7-790c-44f5-acc2-add4282ef700" />
 
 ## Patrones de diseño implementados
 
@@ -58,10 +55,13 @@ Una vez abierto el proyecto, Eclipse descarga las dependencias automáticamente 
 - **Template Method** — `Nivel`: estructura común para `NivelFacil` y `NivelDificil`, con transición automática a los 200 puntos.
 - **Builder** — `FrutaBuilder`: construcción fluida de objetos `ObjetoCaida` con hasta 7 parámetros configurables.
 
-## Autores
-
+## Capturas
+<img width="1918" height="1107" alt="image" src="https://github.com/user-attachments/assets/c962d5b0-f02b-43ba-933f-be0739b6f402" />
+<img width="1732" height="1028" alt="image" src="https://github.com/user-attachments/assets/21d3b1d7-790c-44f5-acc2-add4282ef700" />
 <img width="1732" height="1028" alt="image" src="https://github.com/user-attachments/assets/a451d1e4-4643-48a6-8d22-ea93f51dff43" />
 
+
+## Autores
 Eros Verdejo
 Isaias Rojas
 Ariel Ponce
