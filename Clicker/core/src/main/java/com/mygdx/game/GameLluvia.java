@@ -193,7 +193,7 @@ public class GameLluvia extends ApplicationAdapter {
         fontGrande.setColor(Color.BLACK);
         font.setColor(Color.BLACK);
 
-        dibujarTextoCentrado(fontGrande, "PERRO FRUTAL", 390);
+        dibujarTextoCentrado(fontGrande, "Puppy Fruit", 390);
         dibujarTextoCentrado(font, "Recolecta frutas, usa power ups y evita la fruta podrida", 335);
         dibujarTextoCentrado(font, "Power ups: guinda 10%, kiwi 7%, durian 5%, dorada 2%", 315);
         dibujarTextoCentrado(font, "PUNTAJE MAXIMO: " + GestorPuntaje.getInstancia().getPuntajeMaximo(), 280);
@@ -205,7 +205,7 @@ public class GameLluvia extends ApplicationAdapter {
     private void dibujarJuego() {
         font.setColor(Color.BLACK);
 
-        dibujarTextoCentrado(font, "PERRO FRUTAL", 475);
+        dibujarTextoCentrado(font, "Puppy Fruit", 475);
         font.draw(batch, "Puntos: " + perro.getPuntos(), 15, 475);
         font.draw(batch, "Maximo: " + GestorPuntaje.getInstancia().getPuntajeMaximo(), 15, 450);
         dibujarVidasConCorazones();
